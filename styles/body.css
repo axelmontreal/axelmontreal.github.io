@@ -1,16 +1,16 @@
 h1, h2, h3, h4, h5 {color: #291400; font-family:"Candara", "Arial";}
 
-h2.vert {color: #00B2D9}
+h2.vert {color: #009BBD}
 h3.rouge {color: #E62671}
 h3.orange {color: #FFCC00}
-h3.vert {color: #00B2D9}
+h3.vert {color: #009BBD}
 h3.bfonce {color: #6600FF}
 h3.maroon {color: #AD002D}
 h3.azukinezu {color: #715454}
 
 h4.rouge {color: #E62671}
 h4.orange {color: #FFCC00}
-h4.vert {color: #00B2D9}
+h4.vert {color: #009BBD}
 h4.bfonce {color: #6600FF}
 h4.maroon {color: #AD002D}
 
@@ -18,7 +18,7 @@ body {font-family: "Candara", "Arial"}
 
 body.left {
 	font-family: "Candara", "Arial";
-	background-color: #00B2D9;
+	background-color: #009BBD;
 	overflow: hidden;
 	}
 
@@ -72,9 +72,9 @@ body.econ1301 {
 table, td, th { border: 1px solid; border-collapse: collapse; border-spacing: 10px 3px; rules: rows; bordercolor:#291400}
 a, span { font-family:"Candara", "Arial"; margin:0px; background-color:#ffffff; color:#291400; border:0px #ffffff solid; text-decoration:none;}
 
-span.orangef{ color: #00B2D9; }
+span.orangef{ color: #009BBD; }
 
-a:hover { border:0px #ff6600 solid; background-color:#00B2D9; color:#ffffff; }
+a:hover { border:0px #ff6600 solid; background-color:#009BBD; color:#ffffff; }
 
 a.bfonce{ font-family:"Candara", "Arial"; margin:0px; background-color:#ffffff; color:#6600FF; border:0px #ffffff solid; text-decoration:none;}
 a.bfonce:hover { border:0px #ff6600 solid; background-color:#6600ff; color:#ffffff; }
@@ -88,12 +88,12 @@ a.vert:hover{ border:0px #ff6600 solid; background-color: #005672; color:#ffffff
 a.orange{ font-family:"Candara", "Arial"; margin:0px; background-color:#ffffff; color:#FFCC00; border:0px #ffffff solid; text-decoration:none;}
 a.orange:hover{ border:0px #ff6600 solid; background-color: #FFCC00; color:#ffffff}
 
-a.orangef{ font-family:"Candara", "Arial"; margin:0px; background-color:#ffffff; color:#00B2D9; border:0px #ffffff solid; text-decoration:underline;}
-a.orangef:hover{ border:0px #ff6600 solid; background-color: #00B2D9; color:#ffffff}
+a.orangef{ font-family:"Candara", "Arial"; margin:0px; background-color:#ffffff; color:#009BBD; border:0px #ffffff solid; text-decoration:underline;}
+a.orangef:hover{ border:0px #ff6600 solid; background-color: #009BBD; color:#ffffff}
 
-a.blanc { font-family:"Candara", "Arial"; margin:0px; padding:4px; display:block; background-color:#00B2D9; color:#ffffff; border:0px #291400 solid;
+a.blanc { font-family:"Candara", "Arial"; margin:0px; padding:4px; display:block; background-color:#009BBD; color:#ffffff; border:0px #291400 solid;
 width:142px; height:18px; font-size:12pt; line-height:18px; text-decoration:none;}
-a.blanc:hover{ border:0px #ff6600 solid; background-color: #ffffff; color:#00B2D9;}
+a.blanc:hover{ border:0px #ff6600 solid; background-color: #ffffff; color:#009BBD;}
 
 a.azukinezu{ font-family:"Candara", "Arial"; margin:0px; background-color:#ffffff; color:#715454; border:0px #ffffff solid; text-decoration:none;}
 a.azukinezu:hover{ border:0px #ff6600 solid; background-color: #715454; color:#ffffff}
