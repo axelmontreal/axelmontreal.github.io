@@ -2,13 +2,13 @@ h1, h2, h3, h4, h5 {color: #6633FF}
 
 body {
 	font-family: "Candara", "Arial";
-	background-color: #007A7A;
+	background-color: #00B2D9;
 	overflow: hidden;
 	}
 	
 body.econ3340left {
 	font-family: "Candara", "Arial";
-	background-color: #007A7A;
+	background-color: #00B2D9;
 	overflow: hidden;	
 	background-image: url("http://hwatanabe.altervista.org/econ3340su17/econ3340logo.png");
     background-repeat: no-repeat;
@@ -17,7 +17,7 @@ body.econ3340left {
 	
 body.econ2302left {
 	font-family: "Candara", "Arial";
-	background-color: #007A7A;
+	background-color: #00B2D9;
 	overflow: hidden;	
 	background-image: url("http://hwatanabe.altervista.org/econ2302su17/econ2302logo.png");
     background-repeat: no-repeat;
@@ -26,7 +26,7 @@ body.econ2302left {
 
 body.econ1301left {
 	font-family: "Candara", "Arial";
-	background-color: #007A7A;
+	background-color: #00B2D9;
 	overflow: hidden;	
 	background-image: url("http://hwatanabe.altervista.org/econ1301fl17/econ1301logo.png");
     background-repeat: no-repeat;
@@ -35,7 +35,7 @@ body.econ1301left {
 	
 body.econ493left {
 	font-family: "Candara", "Arial";
-	background-color: #007A7A;
+	background-color: #00B2D9;
 	overflow: hidden;	
 	background-image: url("http://hwatanabe.altervista.org/econ493fl19/econ493logo.png");
     background-repeat: no-repeat;
@@ -43,7 +43,7 @@ body.econ493left {
 	}
 	
 table, td, th { border: 1px solid; border-collapse: collapse; border-spacing: 10px 3px; rules: rows; bordercolor:#6633FF}
-a, span { font-family:"Candara", "Arial"; margin:0px; padding:4px; display:block; background-color:#007A7A; color:#ffffff; border:0px #6633FF solid;
+a, span { font-family:"Candara", "Arial"; margin:0px; padding:4px; display:block; background-color:#00B2D9; color:#ffffff; border:0px #6633FF solid;
 width:500px; height:18px; font-size:12pt; line-height:18px; text-decoration:none;}
-a:hover { border:0px #ff6600 solid; color:#007A7A; background-color:#ffffff; }
+a:hover { border:0px #ff6600 solid; color:#00B2D9; background-color:#ffffff; }
 
